@@ -31,3 +31,11 @@ In `temp.tm`:
 `python main.py` or
 
 `python3 main.py`
+
+## How to contribute
+Have an idea? Please use a branch and create a Pull Request. If you not sure how to do this, ask us.
+
+Haven't time to code it? Please open an issue.
+
+## License
+Licensed under a MIT license.
