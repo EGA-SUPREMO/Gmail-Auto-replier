@@ -1,0 +1,7 @@
+# requirements
+
+yagmail
+pprint
+IMAPClient
+pyzmail36
+objcrypt
